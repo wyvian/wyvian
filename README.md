@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wyvian
-- 👀 I’m interested in 
+- 👀 I’m interested in Python, POO and web development!
 - 🌱 I’m currently learning React Native (with expo) for Mobile Development
 - 💞️ I’m looking to collaborate on any web projects!
 - 📫 Reach me at @waves002 on Twitter and @23.waves at Instagram!
